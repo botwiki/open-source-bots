@@ -28,6 +28,38 @@ A Twitter bot that "tweets anonymous Wikipedia edits that are made from IP addre
 This is basically the source code of the official Botwiki.org semi-automated account [@botwikidotorg](https://twitter.com/botwikidotorg).
 
 
+### [@minetweeter_](https://twitter.com/minetweeter_) -- [namuol/minetweeter](https://github.com/namuol/minetweeter)
+
+**Language:** node.js
+
+An implementation of the Minesweeper game on Twitter.
+
+
+### [@crystalliser](https://twitter.com/crystalliser) -- [Autophagy/crystalliser-bot](https://github.com/Autophagy/crystalliser-bot)
+
+**Language:** Python
+
+A Twitter that takes an image and "crystallizes" it.
+
+
+### [@nmstereo](https://twitter.com/nmstereo) -- [nixmc/nmstereo-enterprise-edition](https://github.com/nixmc/nmstereo-enterprise-edition)
+
+**Language:** Python
+
+A Twitter bot that accepts a Spotify URL to a song and plays it on your stereo. 
+
+### [@permitbot](https://twitter.com/permitbot) -- [chagan/permitbot](https://github.com/chagan/permitbot)
+
+**Language:** Python
+
+Twitter bot that "tweets interesting findings from Chicago building permits".
+
+
+### [@ShouldBot](https://twitter.com/ShouldBot) -- [20hz20khz/ShouldBot](https://github.com/20hz20khz/ShouldBot)
+
+**Language:** PHP
+
+> When a user asks it a "this or that" question, it splits the text and randomly replies with either "this" or "that"
 
 
 ## Open source Slack bots
