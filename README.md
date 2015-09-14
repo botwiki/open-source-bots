@@ -62,6 +62,110 @@ Twitter bot that "tweets interesting findings from Chicago building permits".
 > When a user asks it a "this or that" question, it splits the text and randomly replies with either "this" or "that"
 
 
+### [@godtributes](https://twitter.com/godtributes) -- [jimkang/godtributes](https://github.com/jimkang/godtributes)
+
+**Language:** node.js
+
+A Twitter bot that posts tweets in the format SOMETHING FOR THE SOMETHING GOD.
+
+
+### [@botsummittalks](https://twitter.com/botsummittalks) -- [Harrison-M/botsummittalks](https://github.com/Harrison-M/botsummittalks)
+
+**Language:** node.js
+
+A Twitter bot that generates [#botsummit](http://tinysubversions.com/botsummit/2014/) talks.
+
+
+### [@rapgamemetaphor](https://twitter.com/rapgamemetaphor) -- [jimkang/rapgamemetaphor](https://github.com/jimkang/rapgamemetaphor)
+
+**Language:** node.js
+
+A Twitter bot that posts "rap boasts".
+
+
+### [@autocompleterap](https://twitter.com/autocompleterap) -- [jimkang/autocompleterap](https://github.com/jimkang/autocompleterap)
+
+**Language:** node.js
+
+> Bot that gets raps for pairs of things as suggested by Google autocomplete.
+
+
+### [@BotSchmot](https://twitter.com/BotSchmot) -- [hugovk/schbot](https://github.com/hugovk/schbot)
+
+**Language:** Python
+
+> A grumpy Twitter bot repeating trending topics with shm-reduplication.
+
+
+### [@EveryFinnishNo](https://twitter.com/EveryFinnishNo) -- [hugovk/everyfinnishno](https://github.com/hugovk/everyfinnishno)
+
+**Language:** Python
+
+> A bot to tweet every Finnish number.
+
+
+### [hugovk/word-tools](https://github.com/hugovk/word-tools)
+
+**Language:** Python
+
+A collection of tools/mini-bots that do various language-related things.
+
+### [hugovk/finnish-art-bots](https://twitter.com/hugovk/lists/finnish-art-bots/members) -- [hugovk/fngbot](https://github.com/hugovk/fngbot)
+
+**Language:** Python
+
+> Bots that tweet objects from the collection of the Finnish National Gallery.
+
+
+### [@fiwotd](https://twitter.com/fiwotd) -- [hugovk/wotdbot](https://github.com/hugovk/wotdbot)
+
+**Language:** Python
+
+A word-of-the-day bot, comes with a Finnish dictionary.
+
+
+### [@finnishpop](https://twitter.com/finnishpop) -- [hugovk/finnishpop](https://github.com/hugovk/finnishpop)
+
+**Language:** Python
+
+A bot that scrapes [vrk.fi](http://vrk.fi) and posts the population of Finland.
+
+
+### [hugovk/randimgbot](https://github.com/hugovk/randimgbot)
+
+**Language:** Python
+
+An example of a bot that picks a random image and posts it.
+
+
+### [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork)
+
+**Language:** Python
+
+A bot that applies a "segmentation-based filter" to an image and posts it.
+
+
+### [@inXwords](https://twitter.com/inXwords) -- [hugovk/inXwords](https://github.com/hugovk/inXwords)
+
+**Language:** Python
+
+> Find a trending topic along the lines of #YinXwords and tweet a random X-word sentence from Project Gutenberg.
+
+
+### [@gutendelight](https://twitter.com/gutendelight) -- [hugovk/gutendelight](https://github.com/hugovk/gutendelight)
+
+**Language:** Python
+
+> Tweeting a mix of hip hop (Rapper's Delight, etc.) and classic literature from Project Gutenberg.
+
+
+### [@FinnishFlags](https://twitter.com/FinnishFlags) -- [hugovk/whyaretheflagsup](https://github.com/hugovk/whyaretheflagsup)
+
+**Language:** Python
+
+> Why are the flags up in Finland?
+
+
 ## Open source Slack bots
 
 *Work in progress.*
