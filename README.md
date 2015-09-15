@@ -175,4 +175,36 @@ A bot that applies a "segmentation-based filter" to an image and posts it.
 
 ## Open source Slack bots
 
-*Work in progress.*
+### [CharlieHess/slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot)
+
+**Language:** node.js
+
+> A bot that deals Texas Hold'em games in Slack
+
+
+### [hlian/huskybot](https://github.com/hlian/huskybot)
+
+**Language:** node.js
+
+> A Slack bot for people who need Siberian Huskies, now.
+
+
+### [wearehanno/oskar](https://github.com/wearehanno/oskar)
+
+**Language:** node.js
+
+> Oskar is a Slackbot that tracks how happy people are at work and helps remote teams to prevent isolation.
+
+
+### [mdb/shoulda-coulda](https://github.com/mdb/shoulda-coulda)
+
+**Language:** node.js
+
+> A Slackbot that tracks how often your teammates use the word "should."
+
+
+### [gesteves/trebekbot](https://github.com/gesteves/trebekbot)
+
+**Language:** Ruby
+
+> A Jeopardy! bot for Slack.
