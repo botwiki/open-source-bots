@@ -7,6 +7,13 @@ This repo is a collection of open source bots for Twitter, Slack, IRC and other 
 
 ## Open source Twitter bots
 
+### [@belongbot4000](https://twitter.com/belongbot4000) -- [fourtonfish/belongbot4000](https://github.com/fourtonfish/belongbot4000)
+
+**Language:** node.js
+
+@belongbot4000 is a simple bot that scrapes [belong.io](http://belong.io/) every 15 minutes and posts new content to Twitter.
+
+
 ### [@congressedits](https://twitter.com/congressedits) -- [edsu/anon](https://github.com/edsu/anon)
 
 **Language:** coffee script
