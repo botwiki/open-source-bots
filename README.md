@@ -11,7 +11,7 @@ This repo is a collection of open source bots for Twitter, Slack, IRC and other 
 
 **Language:** Python
 
-A Raspberry Pi-based Twitter bot tweets whenever Oliver the dog barks. 
+A Raspberry Pi-based Twitter bot that tweets whenever Oliver the dog barks. 
 
 
 ### [@belongbot4000](https://twitter.com/belongbot4000) -- [fourtonfish/belongbot4000](https://github.com/fourtonfish/belongbot4000)
