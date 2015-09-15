@@ -55,6 +55,23 @@ An implementation of the Minesweeper game on Twitter.
 
 A Twitter that takes an image and "crystallizes" it.
 
+### [@gutenscrum](https://twitter.com/gutenscrum) -- [Coleww/gutenscrum](https://github.com/coleww/gutenscrum)
+
+**Language:** Node.js
+
+Tweets once a day at 10am with a surrealist standup update
+
+### [@haiku_ebooks](https://twitter.com/haiku_ebooks) -- [coleww/haiku_ebooks](https://github.com/coleww/haiku_ebooks)
+
+**Language:** Ruby
+
+Sits on the streaming API and retweets things it finds that fit haiku structure. Uses CMU rhyming dictionary.
+
+### [@1_thing_idk_why](https://twitter.com/1_thing_idk_why) -- [coleww/in-the-end](https://github.com/coleww/in-the-end)
+
+**Language:** Node.js
+
+A bot that tweetstorms the lyrics to a Linkin Park song, forever. An ok example of how to "tweet a book one line at a time".
 
 ### [@nmstereo](https://twitter.com/nmstereo) -- [nixmc/nmstereo-enterprise-edition](https://github.com/nixmc/nmstereo-enterprise-edition)
 
