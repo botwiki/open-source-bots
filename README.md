@@ -7,6 +7,13 @@ This repo is a collection of open source bots for Twitter, Slack, IRC and other 
 
 ## Open source Twitter bots
 
+### [@OliverBarkBark](https://twitter.com/OliverBarkBark) -- [HenryWConklin/barkdetect](https://github.com/HenryWConklin/barkdetect)
+
+**Language:** Python
+
+A Raspberry Pi-based Twitter bot tweets whenever Oliver the dog barks. 
+
+
 ### [@belongbot4000](https://twitter.com/belongbot4000) -- [fourtonfish/belongbot4000](https://github.com/fourtonfish/belongbot4000)
 
 **Language:** node.js
@@ -53,7 +60,7 @@ A Twitter that takes an image and "crystallizes" it.
 
 **Language:** Python
 
-A Twitter bot that accepts a Spotify URL to a song and plays it on your stereo. 
+A Raspberry Pi-based Twitter bot that accepts a Spotify URL to a song and plays it on your stereo. 
 
 ### [@permitbot](https://twitter.com/permitbot) -- [chagan/permitbot](https://github.com/chagan/permitbot)
 
