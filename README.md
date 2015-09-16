@@ -232,3 +232,20 @@ A bot that applies a "segmentation-based filter" to an image and posts it.
 **Language:** Ruby
 
 > A Jeopardy! bot for Slack.
+
+
+### [@Botgle](https://twitter.com/botgle) -- [muffinista/botgle](https://github.com/muffinista/botgle)
+
+**Language:** ruby
+
+A multi-player implementation of Boggle on Twitter.
+
+
+### [@kaleid_o_bot](https://twitter.com/kaleid_o_bot) -- [muffinista/kaleid_o_bot](https://github.com/muffinista/kaleid_o_bot)
+
+**Language:** Processing
+
+A Twitter bot which takes an image and runs it through a kaleidoscope
+filter.
+
+
