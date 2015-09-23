@@ -9,8 +9,10 @@ After several significant improvements to the [Botwiki.org](https://botwiki.org/
 - [Open source game bots](https://botwiki.org/tag/opensource+game)
 - Or you can just search for [[opensource ruby]](https://botwiki.org/search?q=opensource+ruby) bots.
 
+To add an open source **bot**, please add it to the **Bots** section, e.g. `/content/bots/twitterbots`. To add **open source code** that **isn't** an actual active or inactive bot, please add it to the proper **Resources** section, e.g. `/content/resources/twitterbots.md`.
+
 If you notice any issues, please contact [@fourtonfish](https://twitter.com/fourtonfish) on Twitter or send an email to [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com).
 
-Thank you!
+**Thank you!**
 
 Also, be sure check out our **new community** for **botmakers** and **bot enthusiasts** -- [Botmakers.org](https://botmakers.org/)!
